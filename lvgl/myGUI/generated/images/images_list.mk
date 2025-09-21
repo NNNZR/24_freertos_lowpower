@@ -1,0 +1,1 @@
+GEN_CSRCS += _start_alpha_134x73.c _tankgreen4026_alpha_40x26.c _tankred_alpha_40x26.c
